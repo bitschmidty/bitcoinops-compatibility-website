@@ -12,5 +12,3 @@ Analyses may include support and usability regarding:
 - RBF 
 - Bech32
 - CPFP
-- Pubkey and Signature Encoding
-- Fee Estimation
